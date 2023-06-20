@@ -1,8 +1,8 @@
 <div dir="rtl">
 
-# اسم المشروع
-
-وصف مختصر للمشروع.
+#  Api الأسلاميه 
+  
+هذا المشروع هو تطبيق يهدف إلى توفير مواقيت الصلاة والمصادر الإسلامية المتعلقة في مكان واحد. يمكنك الحصول على مواقيت الصلاة الدقيقة لمدينة القاهرة في مصر وقراءة القرآن الكريم والتفسير والاستماع إلى الأحاديث النبوية واستعراض الأذكار المهمة. يتم استخدام واجهات برمجة التطبيقات المشار إليها في المشروع لجلب المعلومات اللازمة.
 
 ## المواقيت الصلاة
 
@@ -34,9 +34,9 @@
 
 <div dir="ltr">
 
-# Project Name
+# Islamic API
 
-A brief description of the project.
+This project is an application aimed at providing prayer timings and related Islamic resources in one place. You can get accurate prayer timings for Cairo, Egypt, read the Holy Quran, access its interpretation, listen to Hadiths, and browse important Adhkar (supplications). The mentioned APIs are used in the project to fetch the required information.
 
 ## Prayer Timings
 
