@@ -26,7 +26,7 @@
 
 ## مصدر آخر
 
-يمكنك الاطلاع على مصدر آخر من خلال [هذا الرابط](https://www.hisnmuslim.com/api/ar/27.json).
+يمكنك الاطلاع على مصدر آخر للأذكار من خلال [هذا الرابط](https://www.hisnmuslim.com/api/ar/27.json).
 
 </div>
 
@@ -54,12 +54,12 @@ You can obtain the Tafsir using the [Tafsir API](https://quranenc.com/api/v1/tra
 
 You can access the Hadiths through the [Hadith API](https://hadis-api-id.vercel.app/hadith/abu-dawud?page=2&limit=300).
 
-## Adhkar
+## Azkar
 
-You can retrieve Adhkar through the [Adhkar API](https://raw.githubusercontent.com/nawafalqari/azkar-api/56df51279ab6eb86dc2f6202c7de26c8948331c1/azkar.json).
+You can retrieve Adhkar through the [Azkar API](https://raw.githubusercontent.com/nawafalqari/azkar-api/56df51279ab6eb86dc2f6202c7de26c8948331c1/azkar.json).
 
 ## Another Source
 
-You can refer to another source through [this link](https://www.hisnmuslim.com/api/ar/27.json).
+You can refer to another source of Azkar through [this link](https://www.hisnmuslim.com/api/ar/27.json).
 
 </div>
