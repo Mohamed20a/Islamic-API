@@ -13,10 +13,13 @@
 يمكنك الوصول إلى القرآن الكريم من خلال [API القرآن الكريم](http://api.alquran.cloud/v1/surah/114).
 
 
+
 ## القرآن الكريم صوت 
-( يمكنك التحكم في صوت القارء عن طريق تغيير ال Id مثل [ttps://api.quran.com/api/v4/chapter_recitations/$id] )
  
-يمكنك الوصول إلى القرآن الكريم من خلال [API القرآن الكريم](https://api.quran.com/api/v4/chapter_recitations/1).
+يمكنك الوصول إلى القرآن الكريم صوت من خلال [API القرآن الكريم صوت](https://api.quran.com/api/v4/chapter_recitations/1).
+
+( يمكنك التحكم في صوت القارئ عن طريق تغيير ال id مثل [https://api.quran.com/api/v4/chapter_recitations/$id] )
+
 
 
 ## التفسير
@@ -52,6 +55,14 @@ You can retrieve the prayer timings using the [Prayer Times API](https://api.ala
 ## Holy Quran
 
 You can access the Holy Quran through the [Quran API](http://api.alquran.cloud/v1/surah/114).
+
+
+## Holy Quran Audio
+ 
+You can access the Holy Quran Audio through [API Holy Quran Audio](https://api.quran.com/api/v4/chapter_recitations/1).
+
+(You can control the voice of the reciter by changing the id like [https://api.quran.com/api/v4/chapter_recitations/$id])
+
 
 ## Tafsir
 
