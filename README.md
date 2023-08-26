@@ -12,6 +12,13 @@
 
 يمكنك الوصول إلى القرآن الكريم من خلال [API القرآن الكريم](http://api.alquran.cloud/v1/surah/114).
 
+
+## القرآن الكريم صوت 
+( يمكنك التحكم في صوت القارء عن طريق تغيير ال Id مثل [ttps://api.quran.com/api/v4/chapter_recitations/$id] )
+ 
+يمكنك الوصول إلى القرآن الكريم من خلال [API القرآن الكريم](https://api.quran.com/api/v4/chapter_recitations/1).
+
+
 ## التفسير
 
 يمكنك الحصول على التفسير من خلال [API التفسير](https://quranenc.com/api/v1/translation/sura/arabic_moyassar/114).
