@@ -18,7 +18,7 @@
  
 يمكنك الوصول إلى القرآن الكريم صوت من خلال [API القرآن الكريم صوت](https://api.quran.com/api/v4/chapter_recitations/1).
 
-( يمكنك التحكم في صوت القارئ عن طريق تغيير ال id مثل [https://api.quran.com/api/v4/chapter_recitations/$id] )
+( يمكنك التحكم في صوت القارئ عن طريق تغيير ال id برقم مثل [https://api.quran.com/api/v4/chapter_recitations/$id] )
 
 
 
@@ -61,7 +61,7 @@ You can access the Holy Quran through the [Quran API](http://api.alquran.cloud/v
  
 You can access the Holy Quran Audio through [API Holy Quran Audio](https://api.quran.com/api/v4/chapter_recitations/1).
 
-(You can control the voice of the reciter by changing the id like [https://api.quran.com/api/v4/chapter_recitations/$id])
+(You can control the voice of the reciter by changing the id with Number like [https://api.quran.com/api/v4/chapter_recitations/$id])
 
 
 ## Tafsir
