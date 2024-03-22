@@ -38,6 +38,11 @@
 
 يمكنك الاطلاع على مصدر آخر للأذكار من خلال [هذا الرابط](https://www.hisnmuslim.com/api/ar/27.json).
 
+
+
+## راديو ل 18 قارئ واذاعات القرأن الكريم
+
+يمكنك الحصول على الراديو من خلال [API الراديو](https://data-rosy.vercel.app/radio.json).
 </div>
 
 ---
@@ -79,5 +84,9 @@ You can retrieve Adhkar through the [Azkar API](https://raw.githubusercontent.co
 ## Another Source
 
 You can refer to another source of Azkar through [this link](https://www.hisnmuslim.com/api/ar/27.json).
+
+## Radio to18 reciters and broadcasts of the Holy Quran
+
+You can get the radio through [Radio API](https://data-rosy.vercel.app/radio.json).
 
 </div>
