@@ -29,6 +29,7 @@
 ## الأحاديث
 
 يمكنك الوصول إلى الأحاديث من خلال [API الأحاديث](https://hadis-api-id.vercel.app/hadith/abu-dawud?page=2&limit=300).
+يمكنك الوصول إلى احاديث اخري من خلال [API 2 الأحاديث](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json)
 
 ## الأذكار
 
@@ -76,6 +77,7 @@ You can obtain the Tafsir using the [Tafsir API](https://quranenc.com/api/v1/tra
 ## Hadiths
 
 You can access the Hadiths through the [Hadith API](https://hadis-api-id.vercel.app/hadith/abu-dawud?page=2&limit=300).
+You can access other hadiths through the [Hadith API 2](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json).
 
 ## Azkar
 
