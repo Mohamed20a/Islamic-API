@@ -29,6 +29,7 @@
 ## الأحاديث
 
 يمكنك الوصول إلى الأحاديث من خلال [API الأحاديث](https://hadis-api-id.vercel.app/hadith/abu-dawud?page=2&limit=300).
+<br/>
 يمكنك الوصول إلى احاديث اخري من خلال [API 2 الأحاديث](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json)
 
 ## الأذكار
